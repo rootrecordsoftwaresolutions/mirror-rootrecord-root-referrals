@@ -30,7 +30,7 @@ abuse:
   soft-ip: true
 
 messages:
-  prefix: "&6Refer &8| &7"
+  prefix: ""
   code: "&7Your referral code: &f{code}"
   code-created: "&aReferral code created: &f{code}"
   claim-success: "&aReferral claimed. Play &f{hours}&a more to qualify your referrer."
